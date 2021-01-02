@@ -75,8 +75,8 @@ $(document).ready(function(){
 
         $('#watch').countDown({
             targetDate: {
-                'day': 		1,
-                'month': 	1,
+                'day': 		12,
+                'month': 	2,
                 'year': 	2021,
                 'hour': 	0,
                 'min': 		0,
